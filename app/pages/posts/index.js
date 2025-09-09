@@ -39,7 +39,7 @@ const PostsPage = () => {
       <div className="flex flex-col gap-4 overflow-y-auto max-h-145 p-4 border border-gray-300 rounded-lg shadow-xl" >
         {postsToShow}
       </div>
-    </div>
+    </div> 
   )
 }
 
